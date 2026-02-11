@@ -3,7 +3,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/pbi_dashboard.png)
 
 ---
 
