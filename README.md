@@ -31,3 +31,17 @@ Provide a reliable and automated way to track production progress, monitor machi
 
 ## 🏗️ Data Flow Architecture
 
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](images/pbi_dashboard.png)
+
+---
+
+## 🧪 Demo Version
+
+A demo Excel file with fictitious data is available in the `demo` folder:
+
+
+
