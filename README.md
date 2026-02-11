@@ -50,3 +50,66 @@ O sistema foi desenvolvido para facilitar:
 
 ## 🗂️ Estrutura do Projeto
 
+industrial-production-control-dashboard
+├─ README.md
+├─ demo/
+│ └─ production_control_demo.xlsx
+├─ images/
+│ ├─ dashboard.png
+│ └─ data_flow.png
+
+
+---
+
+## 🖼️ Demonstração Visual
+
+### Dashboard Principal
+![Dashboard](images/pbi_dashboard.png)
+
+### Fluxo de Dados
+![Data Flow](images/data_flow.png)
+
+---
+
+## 🔄 Fluxo de Funcionamento
+
+1. Coleta automática de dados de múltiplas planilhas  
+2. Tratamento, limpeza e padronização via **Power Query**  
+3. Modelagem dos dados  
+4. Atualização automática  
+5. Visualização interativa via **Power BI**  
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Criar um **sistema simples, confiável e automatizado** para:
+
+- Melhorar o controle produtivo  
+- Reduzir erros manuais  
+- Ganhar agilidade no acompanhamento da produção  
+- Fornecer informações claras para supervisores e gestores  
+
+---
+
+## 🧑‍💻 Autor
+
+**Pablo Barini**
+
+- GitHub: https://github.com/yssertz  
+- LinkedIn: https://www.linkedin.com/in/pablobarini  
+- Instagram: https://instagram.com/pablo.barini  
+
+---
+
+## ⭐ Considerações Finais
+
+Este projeto demonstra habilidades em:
+
+- Análise de dados  
+- Automação de processos  
+- Business Intelligence  
+- Visualização de dados  
+- Soluções práticas para ambientes industriais  
+
+
