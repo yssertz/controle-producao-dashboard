@@ -67,7 +67,14 @@ industrial-production-control-dashboard
 ![Dashboard](images/pbi_dashboard.png)
 
 ### Fluxo de Dados
-![Data Flow](images/data_flow.png)
+
+Planilhas Excel
+       ↓
+  Power Query
+       ↓
+   Power BI
+       ↓
+   Dashboard
 
 ---
 
