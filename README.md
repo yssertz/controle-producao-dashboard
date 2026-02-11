@@ -1,47 +1,52 @@
-# 🏭 Industrial Production Control Dashboard
+# 📊 Industrial Production Control Dashboard
 
-Production control system developed using advanced Excel and Power BI, designed to centralize manufacturing data, automate updates, and generate interactive dashboards for industrial performance monitoring.
-
----
-
-## 🎯 Project Goal
-
-Provide a reliable and automated way to track production progress, monitor machine performance, and support managerial decision-making through real-time dashboards.
+> Sistema automatizado de controle e monitoramento da produção industrial utilizando **Excel + Power Query + Power BI**, com atualização automática e dashboards interativos.
 
 ---
 
-## ⚙️ Technologies Used
+## 🏭 Visão Geral
 
-- Microsoft Excel (advanced formulas and data connections)
-- Power Query (data integration and transformation)
-- Power BI (interactive dashboards)
-- Data modeling and KPIs
+Este projeto tem como objetivo **automatizar o controle da produção industrial**, centralizando dados provenientes de múltiplas planilhas e transformando-os em **indicadores visuais claros, objetivos e em tempo real**.
 
----
+O sistema foi desenvolvido para facilitar:
 
-## 📊 Features
-
-- Integration of multiple spreadsheets into a centralized database
-- Automatic data refresh
-- Production progress tracking (% completed)
-- Production monitoring by machine
-- Interactive dashboards for performance analysis
+- Monitoramento do progresso da produção  
+- Acompanhamento por máquina  
+- Visualização de eficiência operacional  
+- Apoio à tomada de decisão no ambiente fabril  
 
 ---
 
-## 🏗️ Data Flow Architecture
+## 🚀 Funcionalidades
+
+- 🔄 Importação automática de dados de múltiplas planilhas  
+- 🧹 Tratamento e transformação de dados com **Power Query**  
+- 📊 Dashboards interativos no **Power BI**  
+- ⚙️ Atualização automática com apenas **1 clique**  
+- 🏭 Indicadores por máquina  
+- 📈 Percentual de produção concluída  
 
 ---
 
-## 📸 Dashboard Preview
+## 🧠 Tecnologias Utilizadas
 
-![Dashboard](images/pbi_dashboard.png)
+- Microsoft Excel (avançado)  
+- Power Query  
+- Power BI  
+- Modelagem de dados  
+- Conexões entre múltiplas fontes  
+- Dashboards interativos  
 
 ---
 
-## 🧪 Demo Version
+## 📊 Indicadores Gerados
 
-A demo Excel file with fictitious data is available in the `demo` folder:
+- Percentual total produzido  
+- Produção por máquina  
+- Progresso geral da fábrica  
+- Status das ordens de produção  
 
+---
 
+## 🗂️ Estrutura do Projeto
 
