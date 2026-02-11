@@ -56,7 +56,10 @@ O sistema foi desenvolvido para facilitar:
 
 ### Fluxo de Dados
 
-Planilhas Excel -> Power Query -> Power BI -> Dashboard
+1. Coleta de dados em múltiplas planilhas Excel  
+2. Tratamento e transformação dos dados via Power Query  
+3. Modelagem e análise no Power BI  
+4. Geração de dashboards interativos  
 
 ---
 
