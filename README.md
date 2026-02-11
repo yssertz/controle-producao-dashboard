@@ -1,4 +1,4 @@
-# 📊 Industrial Production Control Dashboard
+# 📊 Dashboard de Controle de Produção Industrial
 
 > Sistema automatizado de controle e monitoramento da produção industrial utilizando **Excel + Power Query + Power BI**, com atualização automática e dashboards interativos.
 
