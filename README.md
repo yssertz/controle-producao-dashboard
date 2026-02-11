@@ -48,18 +48,6 @@ O sistema foi desenvolvido para facilitar:
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-industrial-production-control-dashboard
-├─ README.md
-├─ demo/
-│ └─ production_control_demo.xlsx
-├─ images/
-│ ├─ dashboard.png
-│ └─ data_flow.png
-
-
----
 
 ## 🖼️ Demonstração Visual
 
@@ -68,13 +56,7 @@ industrial-production-control-dashboard
 
 ### Fluxo de Dados
 
-Planilhas Excel
-       ↓
-  Power Query
-       ↓
-   Power BI
-       ↓
-   Dashboard
+Planilhas Excel -> Power Query -> Power BI -> Dashboard
 
 ---
 
